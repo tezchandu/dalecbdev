@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Lead_Source__c</fullName>
+    <externalId>false</externalId>
+    <label>Lead Source</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Bombora - APAC/EMEA</fullName>
+                <default>false</default>
+                <label>Bombora - APAC/EMEA</label>
+            </value>
+            <value>
+                <fullName>Call / Email / Walk In</fullName>
+                <default>false</default>
+                <label>Call / Email / Walk In</label>
+            </value>
+            <value>
+                <fullName>Catalog</fullName>
+                <default>false</default>
+                <label>Catalog</label>
+            </value>
+            <value>
+                <fullName>Cold Call</fullName>
+                <default>false</default>
+                <label>Cold Call</label>
+            </value>
+            <value>
+                <fullName>Corporate Marketing Event</fullName>
+                <default>false</default>
+                <label>Corporate Marketing Event</label>
+            </value>
+            <value>
+                <fullName>Corporate Online Marketing Event</fullName>
+                <default>false</default>
+                <label>Corporate Online Marketing Event</label>
+            </value>
+            <value>
+                <fullName>Customer Service</fullName>
+                <default>false</default>
+                <label>Customer Service</label>
+            </value>
+            <value>
+                <fullName>DCA Coaching POC</fullName>
+                <default>false</default>
+                <label>DCA Coaching POC</label>
+            </value>
+            <value>
+                <fullName>Digital</fullName>
+                <default>false</default>
+                <label>Digital</label>
+            </value>
+            <value>
+                <fullName>Direct Mail</fullName>
+                <default>false</default>
+                <label>Direct Mail</label>
+            </value>
+            <value>
+                <fullName>Event</fullName>
+                <default>false</default>
+                <label>Event</label>
+            </value>
+            <value>
+                <fullName>Eventbrite</fullName>
+                <default>false</default>
+                <label>Eventbrite</label>
+            </value>
+            <value>
+                <fullName>Existing Account</fullName>
+                <default>false</default>
+                <label>Existing Account</label>
+            </value>
+            <value>
+                <fullName>Ext. Directory (Avention, Kompass...)</fullName>
+                <default>false</default>
+                <label>Ext. Directory (Avention, Kompass...)</label>
+            </value>
+            <value>
+                <fullName>Ext. Imported List</fullName>
+                <default>false</default>
+                <label>Ext. Imported List</label>
+            </value>
+            <value>
+                <fullName>Facebook</fullName>
+                <default>false</default>
+                <label>Facebook</label>
+            </value>
+            <value>
+                <fullName>Field Exec</fullName>
+                <default>false</default>
+                <label>Field Exec</label>
+            </value>
+            <value>
+                <fullName>FindCourses Referral</fullName>
+                <default>false</default>
+                <label>FindCourses Referral</label>
+            </value>
+            <value>
+                <fullName>Franchisee</fullName>
+                <default>false</default>
+                <label>Franchisee</label>
+            </value>
+            <value>
+                <fullName>Global Sales Self Generated</fullName>
+                <default>false</default>
+                <label>Global Sales Self Generated</label>
+            </value>
+            <value>
+                <fullName>Golden Books</fullName>
+                <default>false</default>
+                <label>Golden Books</label>
+            </value>
+            <value>
+                <fullName>Graduate Call</fullName>
+                <default>false</default>
+                <label>Graduate Call</label>
+            </value>
+            <value>
+                <fullName>Growthonics Prospecting</fullName>
+                <default>false</default>
+                <label>Growthonics Prospecting</label>
+            </value>
+            <value>
+                <fullName>Hubspot</fullName>
+                <default>false</default>
+                <label>Hubspot</label>
+            </value>
+            <value>
+                <fullName>In-house Program</fullName>
+                <default>false</default>
+                <label>In-house Program</label>
+            </value>
+            <value>
+                <fullName>Leadership Directories, Inc</fullName>
+                <default>false</default>
+                <label>Leadership Directories, Inc</label>
+            </value>
+            <value>
+                <fullName>LinkedIn</fullName>
+                <default>false</default>
+                <label>LinkedIn</label>
+            </value>
+            <value>
+                <fullName>Live Chat</fullName>
+                <default>false</default>
+                <label>Live Chat</label>
+            </value>
+            <value>
+                <fullName>Marketing Campaign</fullName>
+                <default>false</default>
+                <label>Marketing Campaign</label>
+            </value>
+            <value>
+                <fullName>Marketing – Email</fullName>
+                <default>false</default>
+                <label>Marketing – Email</label>
+            </value>
+            <value>
+                <fullName>Marketing Partner</fullName>
+                <default>false</default>
+                <label>Marketing Partner</label>
+            </value>
+            <value>
+                <fullName>Media – Local/National</fullName>
+                <default>false</default>
+                <label>Media – Local/National</label>
+            </value>
+            <value>
+                <fullName>MentorTech List</fullName>
+                <default>false</default>
+                <label>MentorTech List</label>
+            </value>
+            <value>
+                <fullName>Networking</fullName>
+                <default>false</default>
+                <label>Networking</label>
+            </value>
+            <value>
+                <fullName>News Letter</fullName>
+                <default>false</default>
+                <label>News Letter</label>
+            </value>
+            <value>
+                <fullName>Newspaper Ad</fullName>
+                <default>false</default>
+                <label>Newspaper Ad</label>
+            </value>
+            <value>
+                <fullName>Other</fullName>
+                <default>false</default>
+                <label>Other</label>
+            </value>
+            <value>
+                <fullName>Paid Program</fullName>
+                <default>false</default>
+                <label>Paid Program</label>
+            </value>
+            <value>
+                <fullName>Preview</fullName>
+                <default>false</default>
+                <label>Preview</label>
+            </value>
+            <value>
+                <fullName>Prime Vendor Directory</fullName>
+                <default>false</default>
+                <label>Prime Vendor Directory</label>
+            </value>
+            <value>
+                <fullName>Prospecting Services</fullName>
+                <default>false</default>
+                <label>Prospecting Services</label>
+            </value>
+            <value>
+                <fullName>Purchased Leads</fullName>
+                <default>false</default>
+                <label>Purchased Leads</label>
+            </value>
+            <value>
+                <fullName>Referral</fullName>
+                <default>false</default>
+                <label>Referral</label>
+            </value>
+            <value>
+                <fullName>RFI</fullName>
+                <default>false</default>
+                <label>RFI</label>
+            </value>
+            <value>
+                <fullName>RFP/RFQ</fullName>
+                <default>false</default>
+                <label>RFP/RFQ</label>
+            </value>
+            <value>
+                <fullName>Sapper</fullName>
+                <default>false</default>
+                <label>Sapper</label>
+            </value>
+            <value>
+                <fullName>Seminar</fullName>
+                <default>false</default>
+                <label>Seminar</label>
+            </value>
+            <value>
+                <fullName>SHRM On Demand</fullName>
+                <default>false</default>
+                <label>SHRM On Demand</label>
+            </value>
+            <value>
+                <fullName>Social</fullName>
+                <default>false</default>
+                <label>Social</label>
+            </value>
+            <value>
+                <fullName>Supervisor</fullName>
+                <default>false</default>
+                <label>Supervisor</label>
+            </value>
+            <value>
+                <fullName>Thought Leadership</fullName>
+                <default>false</default>
+                <label>Thought Leadership</label>
+            </value>
+            <value>
+                <fullName>Trade Show</fullName>
+                <default>false</default>
+                <label>Trade Show</label>
+            </value>
+            <value>
+                <fullName>Trainer Referral</fullName>
+                <default>false</default>
+                <label>Trainer Referral</label>
+            </value>
+            <value>
+                <fullName>TV Segment</fullName>
+                <default>false</default>
+                <label>TV Segment</label>
+            </value>
+            <value>
+                <fullName>Web</fullName>
+                <default>false</default>
+                <label>Web</label>
+            </value>
+            <value>
+                <fullName>Webinar</fullName>
+                <default>false</default>
+                <label>Webinar</label>
+            </value>
+            <value>
+                <fullName>Workshop</fullName>
+                <default>false</default>
+                <label>Workshop</label>
+            </value>
+            <value>
+                <fullName>ZoomInfo</fullName>
+                <default>false</default>
+                <label>ZoomInfo</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
